@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WOW_PVE_Guides</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_pass">Пароль</string>
+    <string name="sign_in">Вход</string>
+    <string name="remember_check">Не выходить</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="guest_text">Войти как гость</string>
+</resources>

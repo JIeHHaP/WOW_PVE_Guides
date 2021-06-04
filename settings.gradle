@@ -1,0 +1,2 @@
+rootProject.name = "WOW_PVE_Guides"
+include ':app'
